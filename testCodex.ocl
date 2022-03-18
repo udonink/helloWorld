@@ -1,0 +1,2 @@
+//I want to use OCL in order to find the owner of an element.
+let elem = this.element in elem.owner
